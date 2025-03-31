@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu9336&layout=compact&theme=dark)  
 ### 🌍 Connect with me:
 
-[![Instagram](https://www.instagram.com/sudhanshu_4877/)
+[![Instagram](https://www.instagram.com/sudhanshu_4877/](https://www.instagram.com/sudhanshu_4877?igsh=OXhtYTB0bHllano=)
 
 ### 🛠️ Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c)
