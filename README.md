@@ -1,9 +1,10 @@
 # Hi there, I'm Sudhanshu 👋  
-### 🚀 A passionate Frontend Developer from India  
+### 🚀 A passionate Frontend Developer   
 
 - 🔭 I’m currently working on **Web Development**  
 - 🌱 I’m learning **React, Node.js, and DSA**  
-- 💬 Ask me about **JavaScript, C++, and Problem Solving**  
+- 💬 Ask me about **JavaScript, C++, and Problem Solving**
+- 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudhanshu-gupta-876a0a204/)  
 
 ## 📊 GitHub Stats  
