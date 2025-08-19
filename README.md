@@ -1,11 +1,15 @@
-# Hi there, I'm Sudhanshu 👋  
-### 🚀 A passionate Frontend Developer   
+🚀 Sudhanshu Gupta – Full-Stack Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on **Web Development**  
-- 🌱 I’m learning **React, Node.js, and DSA**  
-- 💬 Ask me about **JavaScript, C++, and Problem Solving**
-- 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudhanshu-gupta-876a0a204/)  
+👋 Hi there, I'm Sudhanshu Gupta
+🎯 Passionate about Backend Development, Web Technologies, and Problem Solving
+🔭 Currently working on Web Development Projects & DSA (Data Structures & Algorithms)
+🌱 Learning  Node.js, and mastering core Computer Science concepts
+👨‍🎓 B.Tech CSE Student @ GL Bajaj Institute of Technology and Management (CGPA: 7.3)
+💡 Interests: Chess ♟️, Building impactful projects, Exploring new technologies
+📫 Reach me at: gsudhanshu511@gmail.com
+📱 Phone: +91-9336844437
+🌐 Connect with me:
+ [LinkedIn](https://www.linkedin.com/in/sudhanshu-gupta-876a0a204/)  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu9336&show_icons=true&theme=dark)  
