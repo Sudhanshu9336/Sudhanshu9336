@@ -10,9 +10,9 @@
 📫 **Reach me at:[gsudhanshu511@gmail.com](mailto:gsudhanshu511@gmail.com)  
 📱 **Phone:** +91-9336844437  
 
-🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/sudhanshu-gupta-876a0a204/)  
- [![Instagram](https://www.instagram.com/sudhanshu_4877/](https://www.instagram.com/sudhanshu_4877?igsh=OXhtYTB0bHllano=)
+### 🌍 Connect with me:
+![LinkedIn](https://www.linkedin.com/in/sudhanshu-gupta-876a0a204/)  
+![Instagram](https://www.instagram.com/sudhanshu_4877/](https://www.instagram.com/sudhanshu_4877?igsh=OXhtYTB0bHllano=)
  ### 🛠️ Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
@@ -24,13 +24,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Sudhanshu9336&theme=onedark)
+
+
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu9336&show_icons=true&theme=dark)  
 
 ## 🚀 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu9336&layout=compact&theme=dark)  
-### 🌍 Connect with me:
+
 
 
 
