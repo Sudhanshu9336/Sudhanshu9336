@@ -1,4 +1,4 @@
-# 🚀 Sudhanshu Gupta – Full-Stack Enthusiast | Problem Solver  
+# 🚀 Sudhanshu Gupta  | Problem Solver  
 
 👋 **Hi there, I'm Sudhanshu Gupta**  
 🎯 Passionate about **Backend Development, Web Technologies, and Problem Solving**  
