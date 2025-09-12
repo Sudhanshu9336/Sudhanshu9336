@@ -27,7 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
-![Snake animation](assets/snake.svg)
 
 
 ## 🏆 GitHub Trophies
