@@ -1,7 +1,7 @@
 # 🚀 Sudhanshu Gupta  | Problem Solver  
 
 👋 **Hi there, I'm Sudhanshu Gupta**  
-🎯 Passionate about **Backend Development, Web Technologies, and Problem Solving**  
+🎯 Passionate about **frontend Development, Web Technologies, and Problem Solving**  
 🔭 Currently working on **Web Development Projects & DSA (Data Structures & Algorithms)**  
 🌱 Learning **Node.js**, and mastering core Computer Science concepts  
 👨‍🎓 B.Tech CSE Student @ GL Bajaj Institute of Technology and Management (**CGPA: 7.3**)  
